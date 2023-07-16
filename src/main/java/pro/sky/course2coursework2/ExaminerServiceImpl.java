@@ -25,8 +25,4 @@ public class ExaminerServiceImpl implements ExaminerService{
         }
         return questions;
     }
-
-    public static Object getAll() {
-        return null;
-    }
 }
